@@ -1,0 +1,4 @@
+MOV A,#25
+ADD A,#13
+MOV 30H,A
+SJMP $
