@@ -4,3 +4,10 @@ Gilang Romadhon 24/534068/PA/22636
 Stanislav Brian Ja Veasna 24/536141/PA/22748 
 Kimi Megan Tyesha 24/538248/PA/22832  
 Katarina Ardisa Kanani 24/542763/PA/23050
+
+## Cara Menjalankan
+
+1. Buka project.
+2. Compile source.
+3. Load ROM (.dua) ke folder msim.
+4. Jalankan simulasi.
